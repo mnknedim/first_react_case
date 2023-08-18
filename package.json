@@ -14,7 +14,7 @@
     "font-awesome": "^4.7.0",
     "fontawesome": "^5.6.3",
     "mnk_phone_formatter": "^1.0.1",
-    "mnk_phone_val": "^1.0.2",
+    "mnk_phone_val": "^1.0.3",
     "react": "18.2.0",
     "react-icons": "^4.10.1",
     "react-native": "0.72.4"
